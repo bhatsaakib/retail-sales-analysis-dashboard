@@ -5,7 +5,8 @@
 The **Retail Sales Analysis Dashboard** is an interactive Microsoft Excel dashboard designed to analyze retail sales performance and identify meaningful business insights. It presents key performance indicators (KPIs), category-wise sales, monthly sales trends, and gender-based sales metrics through charts and interactive slicers.
 
 ## Dashboard Preview
-![Retail Sales Analysis Dashboard](dashboard.png)
+
+![Retail Sales Analysis Dashboard](./Dashboard%20Image.png)
 
 ## Project Objectives
 
